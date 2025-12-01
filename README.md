@@ -7,4 +7,6 @@ Progress table (update per day)
 
 Status values: `TODO`, `In Progress`, `Done`.
 
+Leaderboard: 
+<img width="403" height="164" alt="image" src="https://github.com/user-attachments/assets/788a12ed-1f62-443a-8c34-b23ba00bd92c" />
 
