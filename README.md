@@ -22,7 +22,7 @@
 | Name | Times Used AI | Notes |
 |:-----|:-------------:|:------|
 | Shanvin | 1 | First strike |
-| You | 0 | Pure skill 😎 |
+| David | 0 | Pure skill 😎 |
 | Atai | 0 | Pure skill 😎 |
 
 Status values: `TODO`, `In Progress`, `Done`.
