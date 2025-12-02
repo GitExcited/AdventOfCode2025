@@ -28,5 +28,6 @@
 Status values: `TODO`, `In Progress`, `Done`.
 
 ## Leaderboard
-<img width="403" height="164" alt="image" src="https://github.com/user-attachments/assets/788a12ed-1f62-443a-8c34-b23ba00bd92c" />
+<img width="428" height="174" alt="image" src="https://github.com/user-attachments/assets/79a2fb19-6534-4d6d-a644-4020e519c0bf" />
+
 
