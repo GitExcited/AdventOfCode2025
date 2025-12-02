@@ -4,7 +4,7 @@
 | Day | Part1 | Part2 |    Time (m)    | Notes             | Status |
 |-----:|:-----:|:-----:|:--------------:|:------------------|:------:|
 | 01 |  ✅ |    ✅    | 17:00, 1:15:00 | Pretty easy XD JK |  DONE  |
-| 02 |  - |   -   |       0        |                   |  TODO  |
+| 02 |  ✅|   -   |     33:32,     |                   |  TODO  |
 
 ## Shanvin's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
