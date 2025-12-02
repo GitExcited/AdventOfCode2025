@@ -15,7 +15,7 @@
 ## Atai's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
 |-----:|:-----:|:-----:|:--------:|:------|:------:|
-| 01 |  - |   -   |    0     |       |  TODO  |
+| 01 |  ✅ |   -   |    0     |       |  TODO  |
 | 02 |  - |   -   |    0     |       |  TODO  |
 
 ## AI Usage Wall of Shame
