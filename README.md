@@ -11,7 +11,7 @@
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
 |-----:|:-----:|:-----:|:--------:|:------|:------:|
 | 01 |  ✅|  ✅    |    total: 30:00    |       |  DONE  |
-| 02 |  ✅ |   -   |    16:10,      |       |  TODO  |
+| 02 |  ✅ |   ✅   |    16:10, 42:00     |    P2 took so long, non-optimal solution too   |  DONE  |
 
 ## Atai's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
