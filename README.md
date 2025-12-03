@@ -23,7 +23,7 @@
 | Name | Times Used AI | Notes |
 |:-----|:-------------:|:------|
 | Shanvin | 1 | First strike |
-| David | 0 | Pure skill 😎 |
+| David | 1 | Had to solve a dumb bug ( forgot to clear sum )  |
 | Atai | 0 | Pure skill 😎 |
 
 Status values: `TODO`, `In Progress`, `Done`.
