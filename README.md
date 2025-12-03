@@ -10,8 +10,8 @@
 ## Shanvin's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
 |-----:|:-----:|:-----:|:--------:|:------|:------:|
-| 01 |  ✅|  ✅    |    0     |       |  DONE  |
-| 02 |  - |   -   |    0     |       |  TODO  |
+| 01 |  ✅|  ✅    |    total: 30:00    |       |  DONE  |
+| 02 |  ✅ |   -   |    16:10,      |       |  TODO  |
 
 ## Atai's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
@@ -22,7 +22,7 @@
 ## AI Usage Wall of Shame
 | Name | Times Used AI | Notes |
 |:-----|:-------------:|:------|
-| Shanvin | 1 | First strike |
+| Shanvin | 1 | First strike (Had to go to work so peeked at solution for Pt2) |
 | David | 1 | Had to solve a dumb bug ( forgot to clear sum )  |
 | Atai | 0 | Pure skill 😎 |
 
