@@ -1,10 +1,11 @@
 # Advent of Code 2025 Progress
 
 ## David's Progress
-| Day | Part1 | Part2 |    Time (m)    | Notes                                                                                      | Status |
-|-----:|:-----:|:-----:|:--------------:|:-------------------------------------------------------------------------------------------|:------:|
-| 01 |  ✅ |    ✅    | 17:00, 1:15:00 | Pretty easy XD JK                                                                          |  DONE  |
-| 02 |  ✅|   ✅  | 33:32,  23:55  | Found solution but its O(n^2). Not super efficient. Could found better if I took more time |  DONE  |
+| Day | Part1 | Part2  |    Time (m)    | Notes                                                                                     | Status |
+|----:|:-----:|:------:|:--------------:|:------------------------------------------------------------------------------------------|:------:|
+|  01 |   ✅   |   ✅    | 17:00, 1:15:00 | Pretty easy XD JK                                                                         |  DONE  |
+|  02 |   ✅   |   ✅    | 33:32,  23:55  | Found solution but its O(n^2). Not super efficient. Could found better if I took more time |  DONE  |
+|  03 |       |        | |           | DOING  |
 
 ## Shanvin's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
