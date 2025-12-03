@@ -1,11 +1,11 @@
 # Advent of Code 2025 Progress
 
 ## David's Progress
-| Day | Part1 | Part2  |    Time (m)    | Notes                                                                                     | Status |
-|----:|:-----:|:------:|:--------------:|:------------------------------------------------------------------------------------------|:------:|
-|  01 |   ✅   |   ✅    | 17:00, 1:15:00 | Pretty easy XD JK                                                                         |  DONE  |
+| Day | Part1 | Part2  |    Time (m)    | Notes                                                                                      | Status |
+|----:|:-----:|:------:|:--------------:|:-------------------------------------------------------------------------------------------|:------:|
+|  01 |   ✅   |   ✅    | 17:00, 1:15:00 | Pretty easy XD JK                                                                          |  DONE  |
 |  02 |   ✅   |   ✅    | 33:32,  23:55  | Found solution but its O(n^2). Not super efficient. Could found better if I took more time |  DONE  |
-|  03 |    ✅   |        |     17:57,     |           | DOING  |
+|  03 |    ✅   |  ✅       | 17:57,1:03:19  | Forgot to clear sum from pat1 in part 2 (`sum=0`). so solution kept being off by a little. |  DONE  |
 
 ## Shanvin's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
@@ -29,6 +29,6 @@
 Status values: `TODO`, `In Progress`, `Done`.
 
 ## Leaderboard
-<img width="428" height="174" alt="image" src="https://github.com/user-attachments/assets/79a2fb19-6534-4d6d-a644-4020e519c0bf" />
+<img width="4![img.png](img.png)28" height="174" alt="image" src="https://github.com/user-attachments/assets/79a2fb19-6534-4d6d-a644-4020e519c0bf" />
 
 
