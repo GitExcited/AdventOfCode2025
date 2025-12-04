@@ -6,6 +6,7 @@
 |  01 |   ✅   |   ✅    | 17:00, 1:15:00 | Pretty easy XD JK                                                                          |  DONE  |
 |  02 |   ✅   |   ✅    | 33:32,  23:55  | Found solution but its O(n^2). Not super efficient. Could found better if I took more time |  DONE  |
 |  03 |    ✅   |  ✅       | 17:57,1:03:19  | Forgot to clear sum from pat1 in part 2 (`sum=0`). so solution kept being off by a little. |  DONE  |
+|  04 |  - |   -   |     29:10,     | Trying to do a fancy answer :/ seems to be a waste of time.. but it could be so beautiful  | DOING  |
 
 ## Shanvin's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
