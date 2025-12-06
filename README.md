@@ -7,7 +7,7 @@
 |  02 |   ✅   |   ✅    |  33:32,  23:55  | Found solution but its O(n^2). Not super efficient. Could found better if I took more time                                                                                                      |  DONE  |
 |  03 |    ✅   |  ✅       |  17:57,1:03:19  | Forgot to clear sum from pat1 in part 2 (`sum=0`). so solution kept being off by a little.                                                                                                      |  DONE  |
 |  04 |  ✅|   ✅   | 1:06:22,  34:00 | Got it.. but at what time cost :( . Solution at least is readable and is not a billion if statements chained together . Also solution 2 is pretty elegant, only a slight change from solution 1 |  DONE  |
-|  05 |  - |   -   |  9:02,  33:17   | I'm overthinking it with fancy hasmaps and sets. The part 1 is trivial: Record time of under 10 min. and barely 33 min for part 2 :)                                                            |  DONE  |
+|  05 |  ✅ |  ✅  |  9:02,  33:17   | I'm overthinking it with fancy hasmaps and sets. The part 1 is trivial: Record time of under 10 min. and barely 33 min for part 2 :)                                                            |  DONE  |
 |  06 |  - |   -   |    0     |       |  TODO  |
 
 ## Shanvin's Progress
