@@ -24,14 +24,21 @@ class Graph:
        self.boxes : List[Box] = []
        self.edges : List[Edge] = []
        self.circuits : List[Circuit] = []
+       self.last_connection : (Box, Box) = None
    def sort_edges(self):
        self.edges.sort(key = lambda e : e.distance )
 
-   def connect_boxes(self, pairs : int):
+   def connect_boxes(self):
        self.sort_edges()
-       for i in range(0,pairs):
+       i = 0
+       while True :
+           if len(self.circuits) == 1 and self.circuits[0].size == len(self.boxes):
+               return
            b1= self.edges[i].first_box
            b2 = self.edges[i].second_box
+           i+=1
+
+
            if b1.circuit is None and b2.circuit is None:
                new_circuit = Circuit()
                new_circuit.add_box(b1)
@@ -48,8 +55,6 @@ class Graph:
            elif b1.circuit == b2.circuit:
                pass
            else:
-               print(f"We are here because b1 circuit:{b1.circuit} and b2 circuit:{b2.circuit}")
-
                combined_circuit = Circuit()
                old_circuit_1 = b1.circuit
                old_circuit_2 = b2.circuit
@@ -61,14 +66,8 @@ class Graph:
                    el.circuit = combined_circuit
                self.circuits.remove(old_circuit_1)
                self.circuits.remove(old_circuit_2)
-               print(f"removed circuit: {old_circuit_1} and {old_circuit_2}")
                self.circuits.append(combined_circuit)
-
-               # print(f" is b1 circuit in circuits? {b1.circuit in self.circuits}")
-               # print(f" is b2 circuit in circuits? {b2.circuit in self.circuits}")
-
-               print("We good")
-
+           self.last_connection = (b1, b2)
 
    def sort_circuits(self):
        self.circuits.sort(key=lambda c: c.size, reverse=True)
@@ -115,12 +114,16 @@ def main():
     #         i+=1
     #     if i ==100 :
     #         break
-    graph.connect_boxes( pairs = 1000)
+    graph.connect_boxes( )
     graph.sort_circuits()
     print(f" there are {len(graph.edges)} edges")
-    for circuit in graph.circuits:
-        print(f"Circuit: {circuit.size}")
-    print(f"{graph.circuits[0].size *graph.circuits[1].size* graph.circuits[2].size}")
+    print(f"circuits left: {len(graph.circuits)}")
+    print(f"last circuit contains: {graph.circuits[0].size}")
+
+    print(str(graph.last_connection[0]))
+    print(str(graph.last_connection[1]))
+    print(graph.last_connection[0].x * graph.last_connection[1].x)
+
 
 if __name__ =="__main__":
     main()
