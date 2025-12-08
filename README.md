@@ -18,7 +18,7 @@
 | 01 |  ✅|  ✅    |    total: 30:00    |       |  DONE  |
 | 02 |  ✅ |   ✅   |    16:10, 42:00     |    P2 took so long, non-optimal solution too   |  DONE  |
 | 03 |  ✅ |  ✅   |    18:50, 23:00     |    Forgot to update largest pointer   |  DONE  |
-| 04 |  ✅ |     |    15:30,     |      |  DONE  |
+| 04 |  ✅ |  ✅   |    15:30, 4:08    |  P2 ez pz, most fun one I did til now    |  DONE  |
 
 
 ## Atai's Progress
