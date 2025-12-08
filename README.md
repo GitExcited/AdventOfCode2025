@@ -10,6 +10,7 @@
 |  05 |  ✅ |  ✅  |  9:02,  33:17   | I'm overthinking it with fancy hasmaps and sets. The part 1 is trivial: Record time of under 10 min. and barely 33 min for part 2 :)                                                                                                                                                                            |  DONE  |
 |  06 |  ✅ |  ✅  | 6:01,   1:22:22 | Really trivial part 1. List comprehension OP in python. Part 2's solution is obvious but the implementaion is array index hell. Im sure it's possible with some insane list comprehension or using numpy or other array/matrix libraries. i did it the old way : for j: for k: for i way and it was a headache. |  DONE  |
 |  07 |  ✅ |   ✅  | 38:40  :  18:14 | Interesting problem to use OOP. Solution 1 is very readable . Part 2 done in record time🌟!! All thanks to my OOP representation which allows flexibility and adding new behaviour!                                                                                                                             |  DONE  |
+|  08 |  ✅ |   -   |     1:36:07     | Pain.                                                                                                                                                                                                                                                                                                           | DOING  |
 
 ## Shanvin's Progress
 | Day | Part1 | Part2 | Time (m) | Notes | Status |
