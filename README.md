@@ -20,6 +20,8 @@
 | 03 |  ✅ |  ✅   |    18:50, 23:00     |    Forgot to update largest pointer   |  DONE  |
 | 04 |  ✅ |  ✅   |    15:30, 4:08    |  P2 ez pz, most fun one I did til now    |  DONE  |
 | 05 |  ✅ |  ✅   |    Around 45 min, 3:30    |  Fun one    |  DONE  |
+| 06 |  ✅ |     |    9:09,    |  Fun one    |  TODO  |
+
 
 
 
