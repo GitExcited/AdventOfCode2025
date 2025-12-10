@@ -20,7 +20,7 @@
 | 03 |  ✅ |  ✅   |    18:50, 23:00     |    Forgot to update largest pointer   |  DONE  |
 | 04 |  ✅ |  ✅   |    15:30, 4:08    |  P2 ez pz, most fun one I did til now    |  DONE  |
 | 05 |  ✅ |  ✅   |    Around 45 min, 3:30    |  Fun one    |  DONE  |
-| 06 |  ✅ |     |    9:09,    |  Fun one    |  TODO  |
+| 06 |  ✅ |     |    9:09, 33:16    |  Really struggled with P2 because of my main where I stripped first and last char, took me a while to understand that was the bug    |  DONE  |
 
 
 
@@ -34,7 +34,7 @@
 ## AI Usage Wall of Shame
 | Name | Times Used AI | Notes |
 |:-----|:-------------:|:------|
-| Shanvin | 1 | First strike (Had to go to work so peeked at solution for Pt2) |
+| Shanvin | 2 | First strike (Had to go to work so peeked at solution for Day1 Pt2), Second strike (day 6 P2), used it to clear the bug regarding .strip(). Logic was good but formatting error messed up the whole logic |
 | David | 1 | Had to solve a dumb bug ( forgot to clear sum )  |
 | Atai | 0 | Pure skill 😎 |
 
