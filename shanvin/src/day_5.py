@@ -30,6 +30,13 @@ def check_in_range(expiration_grid, new_range):
                 break
     return counter
 
+def process_range_2(ranges):
+    counter=0
+    for i in ranges:
+        number1, number2=int(i.split("-")[0]), int(i.split("-")[1])
+        counter+=(number2-number1)+1
+    return counter
+
 def main():
     with open(INPUT_PATH, "r") as f:
         switch=True
@@ -45,7 +52,8 @@ def main():
                 expiration_grid.append(data)
         new_range=sort_ranges(range_grid)
         result=check_in_range(expiration_grid, new_range)
-        print (result)
+        result_2=process_range_2(new_range)
+        print (result_2)
 
 
         
