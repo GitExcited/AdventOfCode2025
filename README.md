@@ -21,6 +21,8 @@
 | 04 |  ✅ |  ✅   |    15:30, 4:08    |  P2 ez pz, most fun one I did til now    |  DONE  |
 | 05 |  ✅ |  ✅   |    Around 45 min, 3:30    |  Fun one    |  DONE  |
 | 06 |  ✅ | ✅    |    9:09, 33:16    |  Really struggled with P2 because of my main where I stripped first and last char, took me a while to understand that was the bug. Logic was good since the start though so W. Didn't bother to check main because in my head I didn't think a single .strip() statement that I use trivially would mess up the whole flow of my function but lesson learned    |  DONE  |
+| 07 |  ✅ |     |    34:46,     |  P1 cooked me, didnt read question well and neglected the split immediately rule    |  TODO  |
+
 
 
 
